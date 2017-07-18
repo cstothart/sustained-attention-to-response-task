@@ -34,14 +34,20 @@ sart(monitor="testMonitor", blocks=1, reps=5, omitNum=3, practice=True,
      path="", fixed=False)
      
 monitor......The monitor to be used for the task.
+
 blocks.......The number of blocks to be presented.
+
 reps.........The number of repetitions to be presented per block.  Each
              repetition equals 45 trials (5 font sizes X 9 numbers).
+             
 omitNum......The number participants should withhold pressing a key on.
+
 practice.....If the task should display 18 practice trials that contain 
              feedback on accuracy.
+             
 path.........The directory in which the output file will be placed. Defaults
              to the directory in which the task is placed.
+             
 fixed........Whether or not the numbers should be presented in a fixed
              instead of random order (e.g., 1, 2, 3, 4, 5, 6, 7, 8 ,9,
              1, 2, 3, 4, 5, 6, 7, 8, 9...). 
