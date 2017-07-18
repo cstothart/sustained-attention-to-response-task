@@ -1,8 +1,7 @@
 sustained-attention-to-response-task
 =============
 
-A Python version of the Sustained Attention to Response Task (SART) as detailed by Robertson et al. 
-(1997).
+A Python version of the Sustained Attention to Response Task (SART) as detailed by Robertson et al. (1997). Requires [PsychoPy](http://www.psychopy.org/).
 
 ![SART task flow](/python-sustained-attention-to-response-task-sart.png?raw=true "SART Task Flow")
 
